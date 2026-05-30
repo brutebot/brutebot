@@ -1,5 +1,16 @@
-# 💫 About Me:
-I'm a programmer focused on AI/ML, Data Science, and Cybersecurity.<br><br>💻 Programmer | LeetCode Grinder<br>🧠 Exploring: Artificial Intelligence, Machine Learning, Data Science<br>🔐 Ethical Hacking Enthusiast<br><br>Building skills, solving problems, and leveling up every day 🚀
+#  🚀 About Me
+
+I’m a tech-driven problem solver focused on building intelligent and secure systems using Artificial Intelligence, Data Science, and Cybersecurity.
+
+With a strong foundation in Data Structures & Algorithms, system-level thinking, and real-world development, I aim to create scalable, efficient, and impactful solutions.
+
+- 🧠 AI/ML Developer  
+- ⚡ DSA-Focused Developer (LeetCode)  
+- 🔐 Cybersecurity | Vulnerability Assessment • System Exploitation • Security Analysis (Intermediate)  
+
+🚀 Currently mastering core fundamentals, building high-impact projects, and pushing towards elite-level development.
+
+> I don’t just learn technology — I build, break, and improve it.
 
 
 ## 🌐 Socials:
