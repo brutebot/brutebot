@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a developer focused on AI/ML, Data Science, and Cybersecurity.<br><br>💻 Programmer | LeetCode Grinder<br>🧠 Exploring: Artificial Intelligence, Machine Learning, Data Science<br>🔐 Ethical Hacking Enthusiast<br><br>Building skills, solving problems, and leveling up every day 🚀
+I'm a programmer focused on AI/ML, Data Science, and Cybersecurity.<br><br>💻 Programmer | LeetCode Grinder<br>🧠 Exploring: Artificial Intelligence, Machine Learning, Data Science<br>🔐 Ethical Hacking Enthusiast<br><br>Building skills, solving problems, and leveling up every day 🚀
 
 
 ## 🌐 Socials:
